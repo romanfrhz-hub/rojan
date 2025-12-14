@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Voice Studio",
+  "description": "A professional Text-to-Speech application powered by Google Gemini 2.5 Flash TTS.",
+  "requestFramePermissions": []
+}
